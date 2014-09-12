@@ -1,4 +1,1 @@
-AScompGrA
-=========
-
-AS Computing group A
+group a as computing files
